@@ -1,0 +1,49 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: cyan;
+}
+.header_div {
+background: lime;
+color: rebeccapurple;
+}
+.header_div img {
+width: 100px;
+}
+.main_div {
+    background-color: orange;
+    padding : 10px;
+    margin-top: 15px;
+    border : 3px soild yellowgreen;
+    }
+    .main_div label {
+        background-color: orange;
+        width : 310px;
+        padding : 10px;
+        margin-bottom : 0px;
+        box-shadow : 5px 10px 18px magenta;
+        }
+    #camera, #result {
+    border : 3px soild firebrick;
+    width : 310px;
+    height : 300px;
+    }
+    .main_div button {
+        width : 310px;
+        font-size: 16px;
+        box-shadow : 5px 10px 18px magenta;
+        border : 3px soild firebrick;
+        }
+.footer_div {
+    margin-bottom: 50px;
+}
+.footer_div h4 {
+    background : red;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+.footer_div img {
+    width : 70px;
+}
+
+    
